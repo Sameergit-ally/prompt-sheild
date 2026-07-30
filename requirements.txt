@@ -1,0 +1,12 @@
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+scikit-learn
+torch
+presidio-analyzer
+presidio-anonymizer
+fastapi
+uvicorn
+python-dotenv
